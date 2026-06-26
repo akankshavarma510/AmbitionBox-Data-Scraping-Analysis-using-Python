@@ -1,0 +1,501 @@
+Company Name,Industry,Rating,Highly rated,Critically_rated,Founded Year,Global Count,India Count
+TCS,IT Services & Consulting ,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1968 (56 yrs old),1 Lakh+,1 Lakh+
+Accenture,IT Services & Consulting ,4.0,"Company Culture, Skill Development / Learning, Job Security",Promotions / Appraisal,1989 (35 yrs old),1 Lakh+,1 Lakh+
+Cognizant,IT Services & Consulting ,3.9,Skill Development / Learning,Promotions / Appraisal,1994 (30 yrs old),1 Lakh+,1 Lakh+
+Wipro,IT Services & Consulting ,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",1945 (79 yrs old),10k-50k,1 Lakh+
+Capgemini,IT Services & Consulting ,3.8,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1967 (57 yrs old),1 Lakh+,1 Lakh+
+HDFC Bank,Banking ,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,1994 (30 yrs old),1 Lakh+,1 Lakh+
+ICICI Bank,Banking ,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1994 (30 yrs old),1 Lakh+,1 Lakh+
+Infosys,IT Services & Consulting ,3.8,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",1981 (43 yrs old),1 Lakh+,1 Lakh+
+HCLTech,IT Services & Consulting ,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1991 (33 yrs old),1 Lakh+,1 Lakh+
+Tech Mahindra,IT Services & Consulting ,3.7,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1986 (38 yrs old),1 Lakh+,1 Lakh+
+Genpact,IT Services & Consulting ,3.9,"Job Security, Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1997 (27 yrs old),1 Lakh+,1 Lakh+
+Teleperformance,BPO ,3.8,Promotions / Appraisal,Promotions / Appraisal,1978 (46 yrs old),1 Lakh+,50k-1 Lakh
+Axis Bank,Banking ,3.8,Job Security,Promotions / Appraisal,1993 (31 yrs old),50k-1 Lakh,50k-1 Lakh
+Concentrix Corporation,BPO ,3.9,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",1983 (41 yrs old),50k-1 Lakh,50k-1 Lakh
+Amazon,Internet ,4.1,"Company Culture, Salary & Benefits, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1994 (30 yrs old),1 Lakh+,1 Lakh+
+Jio,Telecom ,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,2018 (6 yrs old),1 Lakh+,50k-1 Lakh
+IBM,IT Services & Consulting ,4.1,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,1911 (113 yrs old),1 Lakh+,1 Lakh+
+Reliance Retail,Retail ,3.9,"Skill Development / Learning, Job Security",Promotions / Appraisal,2006 (18 yrs old),1 Lakh+,1 Lakh+
+HDB Financial Services,NBFC ,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,2007 (17 yrs old),1 Lakh+,1 Lakh+
+iEnergizer,BPO ,4.7,"Company Culture, Skill Development / Learning, Job Security",Promotions / Appraisal,,,
+Larsen & Toubro Limited,Engineering & Construction ,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,1938 (86 yrs old),50k-1 Lakh,10k-50k
+BYJU'S,EdTech ,3.1,"Job Security, Work Life Balance, Company Culture","Job Security, Work Life Balance, Company Culture",2011 (13 yrs old),10k-50k,10k-50k
+Deloitte,Management Consulting ,3.9,"Job Security, Skill Development / Learning, Salary & Benefits",Work Life Balance,1845 (179 yrs old),1 Lakh+,1 Lakh+
+Kotak Mahindra Bank,Banking ,3.8,Job Security,Promotions / Appraisal,2003 (21 yrs old),50k-1 Lakh,50k-1 Lakh
+Vodafone Idea,Telecom ,4.2,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,2018 (6 yrs old),10k-50k,5k-10k
+Reliance Industries,Oil & Gas ,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,1977 (47 yrs old),1 Lakh+,1 Lakh+
+Bharti Airtel,Telecom ,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,1995 (29 yrs old),10k-50k,10k-50k
+Tata Motors,Automobile ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1945 (79 yrs old),50k-1 Lakh,10k-50k
+WNS,BPO ,3.5,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1996 (28 yrs old),10k-50k,10k-50k
+Flipkart,Internet ,4.0,"Skill Development / Learning, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2007 (17 yrs old),10k-50k,10k-50k
+IndusInd Bank,Banking ,3.7,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1994 (30 yrs old),10k-50k,10k-50k
+Ernst & Young,Management Consulting ,3.6,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",,,
+AU Small Finance Bank,Banking ,4.4,"Skill Development / Learning, Job Security, Company Culture","Work Life Balance, Work Satisfaction, Promotions / Appraisal",1996 (28 yrs old),10k-50k,10k-50k
+DXC Technology,IT Services & Consulting ,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",2017 (7 yrs old),1 Lakh+,10k-50k
+IDFC FIRST Bank,Banking ,4.0,"Salary & Benefits, Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",2018 (6 yrs old),10k-50k,10k-50k
+Mahindra & Mahindra,Automobile ,4.2,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",1945 (79 yrs old),1 Lakh+,1 Lakh+
+LTIMindtree,IT Services & Consulting ,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1997 (27 yrs old),50k-1 Lakh,50k-1 Lakh
+Infosys BPM,BPO ,3.8,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",2002 (22 yrs old),10k-50k,10k-50k
+Conneqt Business Solutions,BPO ,3.7,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",2002 (22 yrs old),10k-50k,10k-50k
+Bajaj Finserv,Financial Services ,4.0,"Salary & Benefits, Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",2007 (17 yrs old),,50k-1 Lakh
+HDFC Life,Insurance ,4.1,"Skill Development / Learning, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",2000 (24 yrs old),10k-50k,10k-50k
+PwC,Management Consulting ,3.5,"Work Life Balance, Promotions / Appraisal, Work Satisfaction","Work Life Balance, Promotions / Appraisal, Work Satisfaction",1880 (144 yrs old),1 Lakh+,10k-50k
+Mphasis,IT Services & Consulting ,3.4,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1998 (26 yrs old),10k-50k,10k-50k
+HSBC Group,Banking ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1865 (159 yrs old),1 Lakh+,10k-50k
+Yes Bank,Banking ,3.9,Salary & Benefits,Promotions / Appraisal,2004 (20 yrs old),10k-50k,10k-50k
+Maruti Suzuki,Automobile ,4.2,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,1981 (43 yrs old),10k-50k,10k-50k
+Startek,BPO ,3.3,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2017 (7 yrs old),10k-50k,10k-50k
+Samsung,Consumer Electronics & Appliances ,4.1,"Salary & Benefits, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1969 (55 yrs old),,50k-1 Lakh
+Asian Paints,Chemicals ,4.1,"Salary & Benefits, Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1942 (82 yrs old),5k-10k,5k-10k
+Hinduja Global Solutions,IT Services & Consulting ,3.9,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",2000 (24 yrs old),10k-50k,10k-50k
+Paytm,FinTech ,3.3,"Job Security, Promotions / Appraisal, Company Culture","Job Security, Promotions / Appraisal, Company Culture",2010 (14 yrs old),10k-50k,10k-50k
+Ericsson,Telecom ,4.2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,1876 (148 yrs old),1 Lakh+,10k-50k
+Shriram Finance,NBFC ,4.1,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1979 (45 yrs old),50k-1 Lakh,50k-1 Lakh
+Bandhan Bank,Banking ,3.8,Job Security,"Promotions / Appraisal, Work Satisfaction",2001 (23 yrs old),50k-1 Lakh,50k-1 Lakh
+Tata Steel,Iron & Steel ,4.1,"Job Security, Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Work Satisfaction",1907 (117 yrs old),1 Lakh+,1 Lakh+
+EXL Service,Analytics & KPO ,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",1999 (25 yrs old),10k-50k,10k-50k
+Cipla,Pharma ,4.2,"Skill Development / Learning, Salary & Benefits, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1935 (89 yrs old),10k-50k,10k-50k
+Dr. Reddy's,Pharma ,4.1,"Skill Development / Learning, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",,,
+NTT DATA,IT Services & Consulting ,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,2013 (11 yrs old),10k-50k,10k-50k
+UltraTech Cement,Building Material ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1983 (41 yrs old),10k-50k,10k-50k
+Sutherland Global Services,IT Services & Consulting ,3.7,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",1986 (38 yrs old),10k-50k,10k-50k
+Quess,BPO ,4.0,Work Life Balance,Promotions / Appraisal,2007 (17 yrs old),1k-5k,1k-5k
+Bajaj Finance,NBFC ,4.1,"Salary & Benefits, Skill Development / Learning, Job Security",Promotions / Appraisal,,,
+ICICI Prudential Life Insurance,Insurance ,4.1,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,2000 (24 yrs old),10k-50k,10k-50k
+Jana Small Finance Bank,Banking ,3.8,,Promotions / Appraisal,2006 (18 yrs old),10k-50k,10k-50k
+Amazon Development Centre India,Internet ,4.2,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,,,
+Lupin,Pharma ,4.2,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,1968 (56 yrs old),10k-50k,1k-5k
+Wells Fargo,Financial Services ,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,1852 (172 yrs old),1 Lakh+,10k-50k
+Zydus Lifesciences,Pharma ,4.2,"Skill Development / Learning, Salary & Benefits, Job Security",Promotions / Appraisal,1952 (72 yrs old),10k-50k,10k-50k
+Delhivery,Logistics ,3.9,Skill Development / Learning,Promotions / Appraisal,2011 (13 yrs old),10k-50k,10k-50k
+L&T Infotech,IT Services & Consulting ,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",,,
+JPMorgan Chase & Co.,Financial Services ,4.1,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",,,
+L&T Construction,Engineering & Construction ,4.0,"Job Security, Skill Development / Learning, Salary & Benefits",Work Life Balance,,,
+HCL Group,IT Services & Consulting ,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",,,
+FIS,FinTech ,3.9,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,,,
+ITC,FMCG ,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,1910 (114 yrs old),10k-50k,10k-50k
+Hexaware Technologies,IT Services & Consulting ,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1990 (34 yrs old),10k-50k,10k-50k
+Sun Pharmaceutical Industries,Pharma ,4.1,"Job Security, Salary & Benefits, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",,,
+Indian Army,Defence & Aerospace ,4.7,"Job Security, Company Culture, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1895 (129 yrs old),1 Lakh+,1 Lakh+
+Hindustan Unilever,FMCG ,4.3,"Skill Development / Learning, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1872 (152 yrs old),10k-50k,10k-50k
+JSW Steel,Iron & Steel ,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,1982 (42 yrs old),10k-50k,10k-50k
+Udaan,Bangalore +339 more,4.0,"Salary & Benefits, Skill Development / Learning","Job Security, Promotions / Appraisal",2016 (8 yrs old),5k-10k,1k-5k
+IIFL Finance,NBFC ,4.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance","Job Security, Promotions / Appraisal",,,
+KPMG India,Management Consulting ,3.6,"Work Life Balance, Work Satisfaction, Promotions / Appraisal","Work Life Balance, Work Satisfaction, Promotions / Appraisal",1987 (37 yrs old),10k-50k,10k-50k
+Ujjivan Small Finance Bank,Banking ,4.1,"Company Culture, Job Security, Work Life Balance","Work Life Balance, Work Satisfaction, Promotions / Appraisal",2017 (7 yrs old),10k-50k,10k-50k
+Max Life Insurance,Insurance ,4.1,"Skill Development / Learning, Company Culture, Job Security","Work Life Balance, Work Satisfaction, Promotions / Appraisal",2000 (24 yrs old),10k-50k,10k-50k
+Oracle,Emerging Technologies ,3.8,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",1977 (47 yrs old),1 Lakh+,50k-1 Lakh
+Tata Projects,Engineering & Construction ,4.3,"Job Security, Company Culture, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",1979 (45 yrs old),,5k-10k
+Muthoot Finance,NBFC ,3.6,"Promotions / Appraisal, Work Satisfaction, Work Life Balance","Promotions / Appraisal, Work Satisfaction, Work Life Balance",1939 (85 yrs old),10k-50k,10k-50k
+eClerx,IT Services & Consulting ,3.4,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2000 (24 yrs old),10k-50k,10k-50k
+Megha Engineering & Infrastructures,Engineering & Construction ,4.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,,,
+Omega Healthcare,Healthcare ,3.8,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",2003 (21 yrs old),10k-50k,10k-50k
+Aurobindo Pharma,Pharma ,4.0,"Job Security, Salary & Benefits, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1986 (38 yrs old),10k-50k,10k-50k
+Ekart Logistics,Logistics ,4.0,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal,2009 (15 yrs old),1k-5k,1k-5k
+Shapoorji Pallonji Group,Engineering & Construction ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,,,
+Siemens,Industrial Automation ,4.2,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1847 (177 yrs old),5k-10k,5k-10k
+JLL,Real Estate ,4.2,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,1999 (25 yrs old),50k-1 Lakh,10k-50k
+Ashok Leyland,Automobile ,4.1,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal,1948 (76 yrs old),10k-50k,5k-10k
+Bajaj Allianz Life Insurance,Insurance ,4.1,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal,2001 (23 yrs old),10k-50k,10k-50k
+First Source,BPO ,3.8,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",2001 (23 yrs old),10k-50k,10k-50k
+Home Credit Finance,Financial Services ,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,2012 (12 yrs old),10k-50k,10k-50k
+JustDial,Internet ,3.6,"Promotions / Appraisal, Work Satisfaction, Job Security","Promotions / Appraisal, Work Satisfaction, Job Security",1996 (28 yrs old),10k-50k,10k-50k
+Apollo Hospitals,Healthcare ,4.1,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Work Satisfaction, Job Security",1983 (41 yrs old),10k-50k,10k-50k
+Indiamart Intermesh,Internet ,3.6,"Promotions / Appraisal, Work Satisfaction, Company Culture","Promotions / Appraisal, Work Satisfaction, Company Culture",1996 (28 yrs old),5k-10k,5k-10k
+Coforge,IT Services & Consulting ,3.5,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2004 (20 yrs old),10k-50k,10k-50k
+Virtusa Consulting Services,IT Services & Consulting ,3.8,Promotions / Appraisal,Promotions / Appraisal,1996 (28 yrs old),10k-50k,10k-50k
+Standard Chartered,Banking ,3.9,Job Security,Promotions / Appraisal,1853 (171 yrs old),50k-1 Lakh,10k-50k
+Vivo,Consumer Electronics & Appliances ,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,2009 (15 yrs old),10k-50k,5k-10k
+Hero MotoCorp,Automobile ,4.2,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,1984 (40 yrs old),5k-10k,5k-10k
+BigBasket,Internet ,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,2011 (13 yrs old),10k-50k,10k-50k
+DMart,Retail ,4.0,"Job Security, Company Culture",Promotions / Appraisal,2002 (22 yrs old),10k-50k,10k-50k
+ICICI Lombard General Insurance Company,Insurance ,3.8,"Promotions / Appraisal, Work Satisfaction","Promotions / Appraisal, Work Satisfaction",,,
+Cyient,IT Services & Consulting ,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",1991 (33 yrs old),10k-50k,10k-50k
+Mahindra Finance,NBFC ,4.3,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",,,
+L&T Technology Services,IT Services & Consulting ,3.4,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",,,
+CGI Group,IT Services & Consulting ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1976 (48 yrs old),50k-1 Lakh,10k-50k
+GlobalLogic,IT Services & Consulting ,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",2000 (24 yrs old),10k-50k,10k-50k
+OPPO,Consumer Electronics & Appliances ,4.0,Skill Development / Learning,Promotions / Appraisal,2004 (20 yrs old),10k-50k,10k-50k
+Equitas Small Finance Bank,Banking ,4.3,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,2007 (17 yrs old),10k-50k,10k-50k
+Bosch Global Software Technologies,Software Product ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1997 (27 yrs old),10k-50k,10k-50k
+Nagarro,IT Services & Consulting ,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,1996 (28 yrs old),10k-50k,10k-50k
+UST,IT Services & Consulting ,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",,,
+TVS Motor,Automobile ,4.0,"Skill Development / Learning, Salary & Benefits, Job Security","Promotions / Appraisal, Salary & Benefits",1979 (45 yrs old),5k-10k,5k-10k
+Manappuram Finance,NBFC ,4.0,"Promotions / Appraisal, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1949 (75 yrs old),10k-50k,10k-50k
+Cholamandalam Investment & Finance,NBFC ,4.0,"Salary & Benefits, Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1978 (46 yrs old),10k-50k,10k-50k
+Atos Syntel,IT Services & Consulting ,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",,,
+SBI Cards & Payment Services,Financial Services ,3.7,"Promotions / Appraisal, Work Satisfaction, Company Culture","Promotions / Appraisal, Work Satisfaction, Company Culture",1998 (26 yrs old),1k-5k,1k-5k
+IQVIA,Clinical Research ,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1982 (42 yrs old),50k-1 Lakh,10k-50k
+SMFG India Credit,NBFC ,4.1,"Salary & Benefits, Job Security, Company Culture",Promotions / Appraisal,,,
+BNY,Investment Banking / Venture Capital / Private Equity ,4.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,1784 (240 yrs old),10k-50k,10k-50k
+Swiggy,Internet ,3.8,"Job Security, Promotions / Appraisal","Job Security, Promotions / Appraisal",2014 (10 yrs old),5k-10k,5k-10k
+Schneider Electric,Industrial Automation ,4.2,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1999 (25 yrs old),1 Lakh+,10k-50k
+Optum,Healthcare ,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1977 (47 yrs old),1 Lakh+,10k-50k
+Amdocs,Software Product ,4.0,"Company Culture, Job Security",Promotions / Appraisal,1982 (42 yrs old),10k-50k,10k-50k
+Hewlett Packard Enterprise,IT Services & Consulting ,4.2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,2015 (9 yrs old),50k-1 Lakh,10k-50k
+Bosch,Auto Components ,4.3,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,1886 (138 yrs old),1 Lakh+,5k-10k
+CBRE,Real Estate ,4.2,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,1906 (118 yrs old),1 Lakh+,10k-50k
+Hyundai Motor India Limited,Automobile ,4.4,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,,,
+State Bank of India,Banking ,3.8,Job Security,Work Life Balance,1806 (218 yrs old),1 Lakh+,1 Lakh+
+Dell,Consumer Electronics & Appliances ,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Work Life Balance,1984 (40 yrs old),1 Lakh+,10k-50k
+Oyo Rooms,Hospitality ,3.4,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",2012 (12 yrs old),10k-50k,1k-5k
+JBM Group,Auto Components ,4.0,"Job Security, Skill Development / Learning","Job Security, Promotions / Appraisal, Work Satisfaction",1983 (41 yrs old),1k-5k,1k-5k
+SBI Life Insurance Company,Insurance ,3.9,Job Security,Promotions / Appraisal,2001 (23 yrs old),10k-50k,10k-50k
+Ecom Express,Logistics ,4.0,Skill Development / Learning,Promotions / Appraisal,2012 (12 yrs old),10k-50k,10k-50k
+BT Group,Telecom ,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,1846 (178 yrs old),1 Lakh+,10k-50k
+Bajaj Auto,Automobile ,3.9,Promotions / Appraisal,Promotions / Appraisal,1945 (79 yrs old),10k-50k,5k-10k
+Persistent Systems,IT Services & Consulting ,3.7,"Promotions / Appraisal, Work Satisfaction, Job Security","Promotions / Appraisal, Work Satisfaction, Job Security",,,
+Reliance Communications,Telecom ,4.0,"Skill Development / Learning, Work Life Balance",Promotions / Appraisal,2002 (22 yrs old),1k-5k,201-500
+KEC International,Engineering & Construction ,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1945 (79 yrs old),5k-10k,5k-10k
+Nagarjuna Construction Company,Engineering & Construction ,4.2,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,,,
+Marpu Foundation,Non-Profit ,4.9,"Company Culture, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,2016 (8 yrs old),201-500,51-200
+Piramal Capital Housing Finance,NBFC ,4.2,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,,,
+Muthoot Fincorp,NBFC ,4.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1887 (137 yrs old),10k-50k,10k-50k
+Aditya Birla Fashion and Retail,Fashion & Textile ,4.2,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",1988 (36 yrs old),10k-50k,10k-50k
+CARS24,Internet ,3.6,"Job Security, Promotions / Appraisal","Job Security, Promotions / Appraisal",,,
+Varun Beverages,Beverage ,4.1,"Job Security, Salary & Benefits","Job Security, Promotions / Appraisal",1995 (29 yrs old),10k-50k,5k-10k
+Royal Enfield,Automobile ,4.3,"Skill Development / Learning, Company Culture, Work Satisfaction","Job Security, Promotions / Appraisal",1901 (123 yrs old),5k-10k,5k-10k
+Tata Communications,Telecom ,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1986 (38 yrs old),5k-10k,5k-10k
+L&T Finance,NBFC ,4.0,Salary & Benefits,Promotions / Appraisal,,,
+John Deere,Industrial Machinery ,4.2,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,2001 (23 yrs old),10k-50k,5k-10k
+ITC Infotech,IT Services & Consulting ,3.8,"Work Life Balance, Job Security",Promotions / Appraisal,,,
+LG Electronics,Consumer Electronics & Appliances ,4.0,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,1958 (66 yrs old),50k-1 Lakh,1k-5k
+Randstad,Recruitment ,3.9,"Promotions / Appraisal, Job Security","Promotions / Appraisal, Job Security",1992 (32 yrs old),10k-50k,5k-10k
+Intas Pharmaceuticals,Pharma ,4.2,"Job Security, Salary & Benefits, Work Life Balance","Promotions / Appraisal, Job Security",1977 (47 yrs old),10k-50k,10k-50k
+Deutsche Bank,Banking ,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1870 (154 yrs old),10k-50k,10k-50k
+Future Group,Retail ,4.2,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,2013 (11 yrs old),50k-1 Lakh,10k-50k
+Kogta Financial India Limited,NBFC ,4.8,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,,,
+Samvardhana Motherson Group,Auto Components ,3.8,Job Security,Promotions / Appraisal,,,
+Thermax Limited,Industrial Machinery ,4.2,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,,,
+Godrej & Boyce Manufacturing,Consumer Electronics & Appliances ,3.9,Job Security,Promotions / Appraisal,1897 (127 yrs old),10k-50k,10k-50k
+Macleods Pharmaceuticals,Pharma ,3.8,Job Security,"Promotions / Appraisal, Company Culture",1986 (38 yrs old),10k-50k,10k-50k
+Team Lease,Recruitment ,4.0,Promotions / Appraisal,Promotions / Appraisal,2016 (8 yrs old),1k-5k,1k-5k
+EY Global Delivery Services ( EY GDS),Accounting & Auditing ,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",,,
+Havells,Electrical Equipment ,4.1,"Work Life Balance, Salary & Benefits, Company Culture","Promotions / Appraisal, Work Satisfaction, Work Life Balance",1983 (41 yrs old),5k-10k,5k-10k
+R1 RCM,Healthcare ,3.9,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Work Satisfaction, Work Life Balance",2007 (17 yrs old),10k-50k,5k-10k
+Tata Capital,NBFC ,4.1,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Work Satisfaction, Work Life Balance",2007 (17 yrs old),5k-10k,5k-10k
+Access Healthcare,IT Services & Consulting ,3.9,"Job Security, Company Culture",Promotions / Appraisal,2011 (13 yrs old),10k-50k,5k-10k
+Hetero Drugs,Pharma ,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",1993 (31 yrs old),10k-50k,1k-5k
+Viatris,Pharma ,4.2,"Salary & Benefits, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",2020 (4 yrs old),10k-50k,10k-50k
+Whitehat jr,EdTech ,3.5,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",2018 (6 yrs old),5k-10k,5k-10k
+Cummins,Industrial Machinery ,4.3,"Company Culture, Work Life Balance, Skill Development / Learning","Job Security, Promotions / Appraisal, Work Satisfaction",1919 (105 yrs old),10k-50k,1k-5k
+Publicis Sapient,IT Services & Consulting ,3.6,"Promotions / Appraisal, Job Security, Work Satisfaction","Promotions / Appraisal, Job Security, Work Satisfaction",,,
+American Express,Financial Services ,4.2,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Job Security, Work Satisfaction",1850 (174 yrs old),50k-1 Lakh,10k-50k
+Aakash Educational Services,EdTech ,3.6,"Work Life Balance, Promotions / Appraisal, Work Satisfaction","Work Life Balance, Promotions / Appraisal, Work Satisfaction",,,
+Tata AIA Life Insurance,Insurance ,4.0,"Job Security, Salary & Benefits, Skill Development / Learning","Work Life Balance, Promotions / Appraisal, Work Satisfaction",2001 (23 yrs old),10k-50k,10k-50k
+VE Commercial Vehicles,Automobile ,4.1,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,2008 (16 yrs old),10k-50k,1k-5k
+Abbott,Pharma ,4.2,"Salary & Benefits, Company Culture, Skill Development / Learning",Promotions / Appraisal,1888 (136 yrs old),1 Lakh+,10k-50k
+Subros,Auto Components ,4.0,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal",1985 (39 yrs old),1k-5k,1k-5k
+Indian Oil Corporation,Oil & Gas ,4.4,"Company Culture, Work Life Balance, Job Security","Salary & Benefits, Promotions / Appraisal",1959 (65 yrs old),10k-50k,10k-50k
+Automatic Data Processing (ADP),Software Product ,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,,,
+Bharat Electronics,Electronics Manufacturing ,4.2,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,,,
+Sodexo,Facility Management Services ,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,2008 (16 yrs old),1 Lakh+,10k-50k
+Pidilite Industries,Chemicals ,4.3,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1959 (65 yrs old),5k-10k,5k-10k
+Alembic Pharmaceuticals,Pharma ,4.0,"Salary & Benefits, Work Life Balance",Promotions / Appraisal,1907 (117 yrs old),,10k-50k
+Atos,IT Services & Consulting ,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",1997 (27 yrs old),1 Lakh+,10k-50k
+Utkarsh Small Finance Bank,Banking ,3.9,,"Promotions / Appraisal, Salary & Benefits",2009 (15 yrs old),,10k-50k
+Barclays,Banking ,4.0,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,1690 (334 yrs old),50k-1 Lakh,10k-50k
+Berger Paints,Chemicals ,3.8,"Promotions / Appraisal, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Work Life Balance, Work Satisfaction",1923 (101 yrs old),1k-5k,1k-5k
+DCB Bank,Banking ,3.8,,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",1930 (94 yrs old),5k-10k,5k-10k
+Carelon Global Solutions,IT Services & Consulting ,4.0,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,10k-50k,,
+Ford Motor,Automobile ,4.4,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,1903 (121 yrs old),1 Lakh+,5k-10k
+Hindalco Industries,Metals & Mining ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1958 (66 yrs old),10k-50k,10k-50k
+Bank of America,Banking ,4.4,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1998 (26 yrs old),1 Lakh+,10k-50k
+Alkem Laboratories,Pharma ,3.9,,Promotions / Appraisal,1973 (51 yrs old),10k-50k,10k-50k
+PolicyBazaar,Internet ,3.4,Salary & Benefits,"Work Life Balance, Company Culture, Work Satisfaction",2008 (16 yrs old),,10k-50k
+Vishal Mega Mart,Retail ,3.8,Salary & Benefits,"Company Culture, Job Security",2008 (16 yrs old),10k-50k,10k-50k
+Johnson Controls,Industrial Automation ,3.6,"Promotions / Appraisal, Job Security, Work Satisfaction","Promotions / Appraisal, Job Security, Work Satisfaction",1885 (139 yrs old),50k-1 Lakh,5k-10k
+Indian Air Force,Defence & Aerospace ,4.7,"Job Security, Skill Development / Learning, Salary & Benefits","Promotions / Appraisal, Job Security, Work Satisfaction",1932 (92 yrs old),1 Lakh+,1 Lakh+
+Maersk,Logistics ,4.3,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Job Security, Work Satisfaction",,,
+24/7 Customer,BPO ,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",,,
+Jindal Steel and Power,Iron & Steel ,4.0,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1979 (45 yrs old),10k-50k,5k-10k
+Ipca Laboratories,Pharma ,4.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1949 (75 yrs old),10k-50k,10k-50k
+Escorts Kubota Limited,Automobile ,4.1,"Skill Development / Learning, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",1944 (80 yrs old),5k-10k,1k-5k
+HDFC Ergo General Insurance,Insurance ,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,,,
+Cogent E Services,BPO ,3.3,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction","Salary & Benefits, Promotions / Appraisal, Work Satisfaction",2004 (20 yrs old),10k-50k,10k-50k
+Aarti Industries,Agro Chemicals ,4.2,"Job Security, Work Life Balance, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal, Work Satisfaction",,,
+Glenmark Pharmaceuticals,Pharma ,4.0,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,1977 (47 yrs old),10k-50k,10k-50k
+UnitedHealth,Healthcare ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1977 (47 yrs old),1 Lakh+,10k-50k
+RBL Bank,Banking ,3.7,Promotions / Appraisal,Promotions / Appraisal,1943 (81 yrs old),,10k-50k
+Lenskart,Internet ,3.2,"Promotions / Appraisal, Work Satisfaction, Work Life Balance","Promotions / Appraisal, Work Satisfaction, Work Life Balance",2010 (14 yrs old),5k-10k,5k-10k
+Reliance Digital,Retail ,4.2,"Skill Development / Learning, Job Security, Company Culture","Promotions / Appraisal, Work Satisfaction, Work Life Balance",2007 (17 yrs old),5k-10k,5k-10k
+Hindustan Coca Cola Beverages,Beverage ,4.2,"Salary & Benefits, Skill Development / Learning, Company Culture","Promotions / Appraisal, Work Satisfaction, Work Life Balance",1997 (27 yrs old),5k-10k,5k-10k
+Paras Hospital,Healthcare ,4.6,"Skill Development / Learning, Company Culture, Work Life Balance","Promotions / Appraisal, Work Satisfaction, Work Life Balance",2006 (18 yrs old),1k-5k,1k-5k
+Honda Motorcycle & Scooter,Automobile ,4.1,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Work Satisfaction, Work Life Balance",2001 (23 yrs old),,10k-50k
+Synechron,IT Services & Consulting ,3.6,Salary & Benefits,"Job Security, Promotions / Appraisal",2001 (23 yrs old),10k-50k,10k-50k
+DTDC Express,Logistics ,3.8,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",,,
+Jubilant Foods Works,Hospitality ,3.8,Skill Development / Learning,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",1995 (29 yrs old),10k-50k,10k-50k
+Birlasoft,IT Services & Consulting ,3.7,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",1995 (29 yrs old),,10k-50k
+MRF Tyres,Auto Components ,3.8,Job Security,"Company Culture, Work Satisfaction, Work Life Balance",1946 (78 yrs old),10k-50k,10k-50k
+Kotak Mahindara Life Insurance,Insurance ,3.9,Job Security,"Company Culture, Work Satisfaction, Work Life Balance",2001 (23 yrs old),10k-50k,10k-50k
+Reliance Nippon Life Insurance,Insurance ,3.8,Promotions / Appraisal,Promotions / Appraisal,,,
+PNB MetLife,Insurance ,3.5,"Job Security, Work Satisfaction, Promotions / Appraisal","Job Security, Work Satisfaction, Promotions / Appraisal",,,
+Ceat Tyres,Auto Components ,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1958 (66 yrs old),5k-10k,5k-10k
+GeBBS Healthcare Solutions,BPO ,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2005 (19 yrs old),5k-10k,5k-10k
+ABB Group,Electrical Equipment ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1988 (36 yrs old),10k-50k,1k-5k
+JK Cement,Building Material ,4.1,"Salary & Benefits, Job Security, Company Culture",Promotions / Appraisal,1975 (49 yrs old),1k-5k,1k-5k
+Conduent,BPO ,3.6,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",2017 (7 yrs old),50k-1 Lakh,5k-10k
+NatWest Group,Banking ,4.0,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",10k-50k,,50k-1 Lakh
+CMS IT Services,IT Services & Consulting ,3.1,"Promotions / Appraisal, Salary & Benefits, Company Culture","Promotions / Appraisal, Salary & Benefits, Company Culture",2014 (10 yrs old),5k-10k,5k-10k
+InterGlobe Aviation,Aviation ,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",,,
+HARMAN,Consumer Electronics & Appliances ,3.8,Work Life Balance,Promotions / Appraisal,2009 (15 yrs old),10k-50k,5k-10k
+Wipro Infotech,IT Services & Consulting ,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1945 (79 yrs old),,1 Lakh+
+Dabur,FMCG ,3.8,Promotions / Appraisal,Promotions / Appraisal,1884 (140 yrs old),5k-10k,5k-10k
+KPIT Technologies,Software Product ,3.6,"Promotions / Appraisal, Work Satisfaction, Job Security","Promotions / Appraisal, Work Satisfaction, Job Security",1990 (34 yrs old),5k-10k,5k-10k
+IGT Solutions,IT Services & Consulting ,3.3,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1998 (26 yrs old),10k-50k,5k-10k
+Reliance SMSL,BPO ,4.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance",Promotions / Appraisal,2007 (17 yrs old),1k-5k,1k-5k
+RSPL Group,FMCG ,4.2,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,1988 (36 yrs old),10k-50k,10k-50k
+Tech Mahindra Business Services,BPO ,3.5,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2003 (21 yrs old),5k-10k,5k-10k
+Square Yards,Real Estate ,3.7,,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2014 (10 yrs old),1k-5k,1k-5k
+IDFC FIRST Bharat,NBFC ,4.5,"Salary & Benefits, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2016 (8 yrs old),10k-50k,10k-50k
+ACC,Building Material ,4.0,Promotions / Appraisal,Promotions / Appraisal,1936 (88 yrs old),5k-10k,5k-10k
+Tata AIG,Insurance ,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,,,
+TVS Credit,NBFC ,4.4,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,2008 (16 yrs old),10k-50k,10k-50k
+UPL,Agriculture ,4.2,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,1969 (55 yrs old),10k-50k,5k-10k
+Titan Company,Retail ,4.4,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,1984 (40 yrs old),5k-10k,5k-10k
+Shoppers Stop,Retail ,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1991 (33 yrs old),10k-50k,5k-10k
+Wipro Consumer Care & Lighting,FMCG ,3.9,Job Security,Promotions / Appraisal,,,
+S&P Global,Analytics & KPO ,4.2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,,,
+Alstom Transportation,Urban Transport ,3.8,Job Security,Promotions / Appraisal,1928 (96 yrs old),50k-1 Lakh,5k-10k
+PepsiCo,Food Processing ,4.1,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,1965 (59 yrs old),1 Lakh+,1 Lakh+
+Aditya Birla Sun Life Insurance,Insurance ,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,2000 (24 yrs old),10k-50k,10k-50k
+ArcelorMittal Nippon Steel,Iron & Steel ,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,5k-10k,,5k-10k
+Torrent Pharmaceuticals,Pharma ,3.9,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",1971 (53 yrs old),10k-50k,10k-50k
+State Street Corporation,Financial Services ,3.8,Job Security,Promotions / Appraisal,1792 (232 yrs old),10k-50k,10k-50k
+Statestreet HCL Services,BPO ,3.3,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",2012 (12 yrs old),5k-10k,5k-10k
+Dilip Buildcon,Engineering & Construction ,4.0,"Work Satisfaction, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Company Culture",1987 (37 yrs old),10k-50k,10k-50k
+Flex,Logistics ,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1969 (55 yrs old),50k-1 Lakh,5k-10k
+GATI-KWE,Logistics ,4.0,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal,2012 (12 yrs old),5k-10k,1k-5k
+Zensar Technologies,IT Services & Consulting ,3.7,Work Life Balance,Promotions / Appraisal,2001 (23 yrs old),5k-10k,5k-10k
+Grasim Industries,Building Material ,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,1947 (77 yrs old),10k-50k,10k-50k
+Afcons Infrastructure,Engineering & Construction ,4.3,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1959 (65 yrs old),,5k-10k
+Tata Technologies,Engineering & Construction ,3.7,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1989 (35 yrs old),5k-10k,5k-10k
+Mankind Pharma,Pharma ,4.1,"Salary & Benefits, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1995 (29 yrs old),10k-50k,10k-50k
+Croma,Retail ,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,2006 (18 yrs old),,5k-10k
+Bajaj Allianz General Insurance,Insurance ,4.0,Skill Development / Learning,Promotions / Appraisal,,,
+Wipro Enterprises Ltd,IT Services & Consulting ,3.9,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,1945 (79 yrs old),1 Lakh+,501-1k
+Sammaan Capital Limited,NBFC ,3.8,"Promotions / Appraisal, Job Security","Promotions / Appraisal, Job Security",,,
+Walmart,Retail ,3.9,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,2009 (15 yrs old),1 Lakh+,5k-10k
+Capita,IT Services & Consulting ,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",2005 (19 yrs old),50k-1 Lakh,5k-10k
+Kyndryl,IT Services & Consulting ,4.0,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,,,
+Apollo Tyres,Auto Components ,4.1,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,1972 (52 yrs old),10k-50k,5k-10k
+ElasticRun,Logistics ,3.4,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",2016 (8 yrs old),1k-5k,1k-5k
+UNO Minda,Auto Components ,4.1,"Job Security, Skill Development / Learning, Company Culture","Job Security, Promotions / Appraisal, Work Satisfaction",1958 (66 yrs old),10k-50k,201-500
+Axis Direct,Financial Services ,3.9,Promotions / Appraisal,Promotions / Appraisal,2011 (13 yrs old),10k-50k,1k-5k
+Societe Generale Global Solution Centre,Financial Services ,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,,,
+HDFC Sales,Financial Services ,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,2004 (20 yrs old),10k-50k,10k-50k
+Nokia,Telecom ,4.2,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,1865 (159 yrs old),10k-50k,10k-50k
+KocharTech,IT Services & Consulting ,4.1,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,1995 (29 yrs old),1k-5k,1k-5k
+Domino's Pizza,Hospitality ,4.0,"Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,,,
+I Process Services,Recruitment ,3.9,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",2005 (19 yrs old),5k-10k,1k-5k
+Landmark Group,Retail ,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1973 (51 yrs old),10k-50k,1k-5k
+Bajaj Electricals,Consumer Electronics & Appliances ,4.1,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal,1938 (86 yrs old),1k-5k,1k-5k
+Motilal Oswal Financial Services,Financial Services ,3.8,Skill Development / Learning,Promotions / Appraisal,1987 (37 yrs old),10k-50k,10k-50k
+Nestle,Food Processing ,4.1,"Salary & Benefits, Skill Development / Learning, Job Security",Promotions / Appraisal,1959 (65 yrs old),1 Lakh+,5k-10k
+Max Healthcare,Healthcare ,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,2001 (23 yrs old),1k-5k,1k-5k
+Blue Dart Express,Logistics ,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1983 (41 yrs old),10k-50k,10k-50k
+AGS Health,Analytics & KPO ,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,2011 (13 yrs old),10k-50k,10k-50k
+Fiserv,FinTech ,3.6,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",1984 (40 yrs old),10k-50k,5k-10k
+Suzlon Group,Power ,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,1995 (29 yrs old),5k-10k,5k-10k
+Capgemini Engineering,Gurgaon / Gurugram +23 more,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",10k-50k,,
+BlackBuck,Internet ,3.8,"Job Security, Promotions / Appraisal","Job Security, Promotions / Appraisal",2015 (9 yrs old),1k-5k,1k-5k
+McDonald's,Hospitality ,4.2,"Skill Development / Learning, Company Culture, Job Security","Job Security, Promotions / Appraisal",1955 (69 yrs old),1 Lakh+,1k-5k
+Huawei Technologies,Telecom ,4.0,"Salary & Benefits, Skill Development / Learning",Job Security,2002 (22 yrs old),1 Lakh+,51-200
+Quest Global,IT Services & Consulting ,3.7,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1997 (27 yrs old),10k-50k,10k-50k
+G4S,Law Enforcement & Security ,4.0,"Work Life Balance, Salary & Benefits, Job Security",Promotions / Appraisal,1996 (28 yrs old),1 Lakh+,1 Lakh+
+IKS Health,Healthcare ,3.6,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2007 (17 yrs old),5k-10k,5k-10k
+Sterlite Technologies,Hardware & Networking ,3.8,"Promotions / Appraisal, Job Security","Promotions / Appraisal, Job Security",1988 (36 yrs old),5k-10k,1k-5k
+Micro Labs,Pharma ,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture",1973 (51 yrs old),10k-50k,10k-50k
+Britannia,FMCG ,4.1,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal, Company Culture",1892 (132 yrs old),1k-5k,1k-5k
+Patanjali Ayurved,FMCG ,4.1,"Work Life Balance, Job Security",Promotions / Appraisal,2006 (18 yrs old),1k-5k,1k-5k
+Simplex Infrastructures,Engineering & Construction ,3.3,"Salary & Benefits, Promotions / Appraisal, Company Culture","Salary & Benefits, Promotions / Appraisal, Company Culture",1924 (100 yrs old),1k-5k,1k-5k
+Exide Industries,Auto Components ,3.6,"Promotions / Appraisal, Company Culture, Work Satisfaction","Promotions / Appraisal, Company Culture, Work Satisfaction",1947 (77 yrs old),10k-50k,5k-10k
+TVS Supply Chain Solutions,Logistics ,3.9,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",1896 (128 yrs old),10k-50k,1k-5k
+XpressBees,Logistics ,3.7,"Promotions / Appraisal, Company Culture, Job Security","Promotions / Appraisal, Company Culture, Job Security",2015 (9 yrs old),5k-10k,5k-10k
+Tractors and Farm Equipment,Industrial Machinery ,4.1,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal,,,
+Lava International,Consumer Electronics & Appliances ,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,2009 (15 yrs old),,1k-5k
+Zomato,Internet ,3.8,"Promotions / Appraisal, Job Security","Promotions / Appraisal, Job Security",2008 (16 yrs old),1k-5k,1k-5k
+Voltas,Consumer Electronics & Appliances ,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1954 (70 yrs old),10k-50k,1k-5k
+Fortis Healthcare,Healthcare ,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,1996 (28 yrs old),5k-10k,1k-5k
+Taj Hotels Resorts and Palaces,Hospitality ,4.2,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1903 (121 yrs old),10k-50k,10k-50k
+Shree Cement,Building Material ,4.0,Promotions / Appraisal,Promotions / Appraisal,1979 (45 yrs old),5k-10k,5k-10k
+KFintech,FinTech ,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2017 (7 yrs old),5k-10k,5k-10k
+State Street Syntel,Financial Services ,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal",2004 (20 yrs old),501-1k,501-1k
+Mahindra Logistics,Logistics ,4.0,"Skill Development / Learning, Company Culture",Promotions / Appraisal,,,
+Yazaki,Auto Components ,3.8,Promotions / Appraisal,Promotions / Appraisal,1941 (83 yrs old),1 Lakh+,10k-50k
+DS Group,FMCG ,4.1,"Work Life Balance, Job Security",Promotions / Appraisal,,,
+ACT Fibernet,Telecom ,4.0,"Company Culture, Job Security, Salary & Benefits",Promotions / Appraisal,2008 (16 yrs old),5k-10k,5k-10k
+Dalmia Bharat Cement,Building Material ,4.0,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,,,
+KPMG Global Services,Bangalore / Bengaluru +30 more,3.7,Job Security,"Promotions / Appraisal, Work Satisfaction",,,
+Indus Towers,Telecom ,3.9,Promotions / Appraisal,Promotions / Appraisal,2007 (17 yrs old),5k-10k,1k-5k
+Himalaya Wellness,Pharma ,4.2,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,,,
+Ola Cabs,Internet ,3.4,"Job Security, Promotions / Appraisal, Company Culture","Job Security, Promotions / Appraisal, Company Culture",2010 (14 yrs old),5k-10k,1k-5k
+ZS Associates,Management Consulting ,3.5,Salary & Benefits,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",,,
+Blue Star,Consumer Electronics & Appliances ,4.0,"Company Culture, Skill Development / Learning, Work Satisfaction","Work Life Balance, Work Satisfaction, Promotions / Appraisal",1943 (81 yrs old),1k-5k,1k-5k
+Extramarks Education,EdTech ,3.4,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",,,
+VVDN Technologies,IT Services & Consulting ,3.6,"Promotions / Appraisal, Salary & Benefits, Company Culture","Promotions / Appraisal, Salary & Benefits, Company Culture",2007 (17 yrs old),10k-50k,5k-10k
+Fujitsu,IT Services & Consulting ,3.8,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,1935 (89 yrs old),50k-1 Lakh,5k-10k
+Mahindra Rural Housing Finance,NBFC ,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,2007 (17 yrs old),10k-50k,10k-50k
+Lifestyle,Retail ,4.4,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,1999 (25 yrs old),10k-50k,10k-50k
+SRF,Chemicals ,4.2,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,1970 (54 yrs old),5k-10k,5k-10k
+PhonePe,FinTech ,4.0,"Salary & Benefits, Job Security, Company Culture",Promotions / Appraisal,2015 (9 yrs old),,5k-10k
+Ajanta Pharma,Pharma ,4.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1973 (51 yrs old),5k-10k,5k-10k
+Ninjacart,Internet ,4.1,"Salary & Benefits, Skill Development / Learning, Company Culture",Promotions / Appraisal,2015 (9 yrs old),1k-5k,1k-5k
+Sonalika Tractors,Automobile ,3.8,Job Security,"Promotions / Appraisal, Company Culture, Work Life Balance",1969 (55 yrs old),1k-5k,1k-5k
+Aditya Birla Group,Building Material ,4.2,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Company Culture, Work Life Balance",1857 (167 yrs old),1 Lakh+,1 Lakh+
+V-Mart,Retail ,4.2,"Skill Development / Learning, Job Security, Company Culture","Promotions / Appraisal, Company Culture, Work Life Balance",2002 (22 yrs old),5k-10k,5k-10k
+Citicorp,Financial Services ,3.7,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",1997 (27 yrs old),1 Lakh+,10k-50k
+Delhi Public School,Education & Training ,3.9,Skill Development / Learning,Promotions / Appraisal,1998 (26 yrs old),1k-5k,1k-5k
+PVR Cinemas,Media & Entertainment ,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,1997 (27 yrs old),1k-5k,1k-5k
+Datamatics Global Services,IT Services & Consulting ,3.5,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1975 (49 yrs old),5k-10k,5k-10k
+Nokia Networks,Hardware & Networking ,4.3,"Company Culture, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",,,
+Eureka Forbes,Consumer Electronics & Appliances ,3.8,"Promotions / Appraisal, Job Security, Salary & Benefits","Promotions / Appraisal, Job Security, Salary & Benefits",1982 (42 yrs old),1k-5k,1k-5k
+Movate,IT Services & Consulting ,3.4,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1996 (28 yrs old),10k-50k,1k-5k
+NoBroker,Real Estate ,3.2,"Promotions / Appraisal, Work Satisfaction, Job Security","Promotions / Appraisal, Work Satisfaction, Job Security",2014 (10 yrs old),1k-5k,1k-5k
+Info Edge,Internet ,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Work Satisfaction, Job Security",,,
+Cholamandalam MS General Insurance,Insurance ,3.9,Promotions / Appraisal,Promotions / Appraisal,2001 (23 yrs old),50k-1 Lakh,1k-5k
+Parle Agro,Beverage ,4.1,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1984 (40 yrs old),5k-10k,5k-10k
+Shell,Oil & Gas ,4.2,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,1907 (117 yrs old),50k-1 Lakh,10k-50k
+Radisson Hotels,Hospitality ,4.0,"Skill Development / Learning, Job Security, Work Life Balance",Promotions / Appraisal,1909 (115 yrs old),50k-1 Lakh,5k-10k
+Tata Elxsi,IT Services & Consulting ,4.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",1989 (35 yrs old),10k-50k,5k-10k
+Kansai Nerolac Paints,Chemicals ,3.9,Job Security,Promotions / Appraisal,1920 (104 yrs old),1k-5k,1k-5k
+Kalpataru Power Transmission,Engineering & Construction ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1981 (43 yrs old),1k-5k,1k-5k
+Emcure Pharmaceuticals,Pharma ,3.8,"Promotions / Appraisal, Job Security","Promotions / Appraisal, Job Security",1981 (43 yrs old),10k-50k,5k-10k
+MSN Laboratories,Pharma ,3.8,Job Security,Company Culture,2003 (21 yrs old),10k-50k,10k-50k
+suzuki motor gujarat,Becharaji +95 more,4.3,"Job Security, Salary & Benefits, Company Culture",Company Culture,,,
+Cybage,IT Services & Consulting ,3.9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1995 (29 yrs old),5k-10k,5k-10k
+Life Insurance Corporation of India,Insurance ,4.4,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,1956 (68 yrs old),1 Lakh+,1 Lakh+
+Unacademy,EdTech ,3.1,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",2015 (9 yrs old),1k-5k,1k-5k
+ICICI Securities,Financial Services ,3.9,Job Security,"Job Security, Promotions / Appraisal, Work Satisfaction",1995 (29 yrs old),1k-5k,1k-5k
+Foundever,BPO ,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",1985 (39 yrs old),1 Lakh+,5k-10k
+Mahindra Holidays & Resorts,Hospitality ,3.6,"Promotions / Appraisal, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Work Life Balance, Work Satisfaction",1996 (28 yrs old),5k-10k,5k-10k
+Blinkit,Internet ,3.8,"Job Security, Promotions / Appraisal","Job Security, Promotions / Appraisal",2013 (11 yrs old),1k-5k,1k-5k
+JMC Projects,Engineering & Construction ,4.2,"Job Security, Skill Development / Learning, Salary & Benefits","Job Security, Promotions / Appraisal",1982 (42 yrs old),1k-5k,1k-5k
+Rivigo,Internet ,3.9,Skill Development / Learning,"Promotions / Appraisal, Job Security, Salary & Benefits",2014 (10 yrs old),1k-5k,1k-5k
+Myntra,Internet ,4.0,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,2007 (17 yrs old),1k-5k,1k-5k
+3i Infotech,IT Services & Consulting ,3.6,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",1993 (31 yrs old),5k-10k,1k-5k
+Planet Spark,EdTech ,3.7,Skill Development / Learning,Promotions / Appraisal,2017 (7 yrs old),201-500,51-200
+Akums Drugs & Pharmaceuticals Limited,Pharma ,4.4,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,,,
+Google,Internet ,4.4,"Company Culture, Salary & Benefits, Work Life Balance",Promotions / Appraisal,1995 (29 yrs old),1 Lakh+,10k-50k
+Jindal Stainless,Iron & Steel ,4.2,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,1970 (54 yrs old),10k-50k,1k-5k
+Pfizer,Pharma ,4.1,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,2004 (20 yrs old),1 Lakh+,1k-5k
+Syngene International,Pharma ,3.9,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1993 (31 yrs old),1k-5k,1k-5k
+Cadila Pharmaceuticals,Pharma ,3.5,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",1951 (73 yrs old),5k-10k,5k-10k
+JCB,Industrial Machinery ,4.0,Work Life Balance,Promotions / Appraisal,1945 (79 yrs old),10k-50k,1k-5k
+Future Retail,Retail ,4.3,"Skill Development / Learning, Company Culture, Work Satisfaction",Promotions / Appraisal,1987 (37 yrs old),10k-50k,10k-50k
+GlaxoSmithKline Pharmaceuticals,Pharma ,4.2,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1830 (194 yrs old),50k-1 Lakh,1k-5k
+Indian Railways,Railways ,4.2,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,1853 (171 yrs old),1 Lakh+,1 Lakh+
+American Broadcasting Company,Mumbai +97 more,4.0,"Work Life Balance, Salary & Benefits, Job Security",Promotions / Appraisal,,,
+upGrad,EdTech ,3.9,"Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,2015 (9 yrs old),,5k-10k
+Reliance Trends,Retail ,4.4,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,2006 (18 yrs old),1 Lakh+,1 Lakh+
+Fincare Small Finance Bank,Banking ,4.1,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,2007 (17 yrs old),10k-50k,10k-50k
+Renault-Nissan,Automobile ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,2007 (17 yrs old),10k-50k,10k-50k
+Raymond,Fashion & Textile ,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,1925 (99 yrs old),,5k-10k
+Whirlpool,Consumer Electronics & Appliances ,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,1911 (113 yrs old),50k-1 Lakh,1k-5k
+Care Health Insurance,Internet ,3.7,"Promotions / Appraisal, Salary & Benefits, Company Culture","Promotions / Appraisal, Salary & Benefits, Company Culture",2012 (12 yrs old),5k-10k,5k-10k
+Gallagher,Insurance ,3.9,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1927 (97 yrs old),10k-50k,10k-50k
+Sobha,Real Estate ,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,1995 (29 yrs old),1k-5k,1k-5k
+BHEL,Electrical Equipment ,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1964 (60 yrs old),10k-50k,10k-50k
+Bharat Petroleum,Oil & Gas ,4.2,"Skill Development / Learning, Salary & Benefits, Job Security",Promotions / Appraisal,1952 (72 yrs old),5k-10k,5k-10k
+Ambuja Cements,Building Material ,3.9,Promotions / Appraisal,Promotions / Appraisal,1983 (41 yrs old),5k-10k,5k-10k
+Aavas Financiers,Financial Services ,3.9,,Promotions / Appraisal,2011 (13 yrs old),5k-10k,5k-10k
+Bharat Financial Inclusion,NBFC ,4.0,"Salary & Benefits, Job Security, Company Culture",Promotions / Appraisal,1998 (26 yrs old),10k-50k,10k-50k
+Sopra Steria,IT Services & Consulting ,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,,,
+Cisco,Hardware & Networking ,4.3,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,1984 (40 yrs old),10k-50k,10k-50k
+Canara HSBC Life Insurance,Insurance ,3.7,,Promotions / Appraisal,2008 (16 yrs old),5k-10k,5k-10k
+Bharti AXA Life Insurance,Insurance ,3.9,Work Life Balance,Promotions / Appraisal,2006 (18 yrs old),1k-5k,1k-5k
+Endurance Technologies,Auto Components ,3.9,Promotions / Appraisal,Promotions / Appraisal,1985 (39 yrs old),1k-5k,1k-5k
+Shahi Exports,Fashion & Textile ,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1974 (50 yrs old),1 Lakh+,1 Lakh+
+IntouchCX,BPO ,3.0,"Promotions / Appraisal, Job Security, Work Satisfaction","Promotions / Appraisal, Job Security, Work Satisfaction",,,
+Intellect Design Arena,FinTech ,4.1,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Job Security, Work Satisfaction",2011 (13 yrs old),5k-10k,5k-10k
+GVK Emergency Management and Research Institute,Non-Profit ,3.7,"Promotions / Appraisal, Job Security, Salary & Benefits","Promotions / Appraisal, Job Security, Salary & Benefits",2005 (19 yrs old),10k-50k,10k-50k
+Kalyan Jewellers,Jewellery ,4.7,"Company Culture, Skill Development / Learning, Salary & Benefits","Promotions / Appraisal, Job Security, Salary & Benefits",1993 (31 yrs old),5k-10k,5k-10k
+DBS Bank,Banking ,3.9,"Salary & Benefits, Job Security","Promotions / Appraisal, Job Security, Salary & Benefits",1968 (56 yrs old),10k-50k,5k-10k
+Force Motors,Automobile ,3.6,"Promotions / Appraisal, Company Culture, Salary & Benefits","Promotions / Appraisal, Company Culture, Salary & Benefits",1958 (66 yrs old),1k-5k,1k-5k
+Dhani Loans and Services,NBFC ,3.9,"Job Security, Promotions / Appraisal","Job Security, Promotions / Appraisal",1k-5k,,
+RMSI,IT Services & Consulting ,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",1992 (32 yrs old),1k-5k,1k-5k
+Poonawalla Fincorp,NBFC ,3.8,"Promotions / Appraisal, Job Security","Promotions / Appraisal, Job Security",1989 (35 yrs old),5k-10k,5k-10k
+Bureau Veritas,Other ,4.0,"Work Life Balance, Job Security",Promotions / Appraisal,1828 (196 yrs old),50k-1 Lakh,1k-5k
+Allsec Technologies,BPO ,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,2000 (24 yrs old),1k-5k,1k-5k
+Straive,Analytics & KPO ,3.5,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",1980 (44 yrs old),10k-50k,10k-50k
+KIA MOTORS,Automobile ,3.9,Promotions / Appraisal,Promotions / Appraisal,1944 (80 yrs old),1k-5k,1k-5k
+Lodha Group,Real Estate ,4.1,"Skill Development / Learning, Company Culture, Salary & Benefits",Promotions / Appraisal,1980 (44 yrs old),5k-10k,5k-10k
+Star Health & Allied Insurance,Insurance ,3.8,Promotions / Appraisal,Promotions / Appraisal,2006 (18 yrs old),10k-50k,10k-50k
+CAMS,IT Services & Consulting ,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",1988 (36 yrs old),5k-10k,5k-10k
+Delphi TVS,Auto Components ,4.0,"Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,1989 (35 yrs old),1k-5k,1k-5k
+ITC Hotels,Hospitality ,4.1,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1975 (49 yrs old),5k-10k,5k-10k
+Brakes India,Auto Components ,4.0,"Skill Development / Learning, Job Security, Work Satisfaction",Promotions / Appraisal,1962 (62 yrs old),501-1k,501-1k
+KENT RO Systems,Consumer Electronics & Appliances ,4.0,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal,1999 (25 yrs old),1k-5k,1k-5k
+Tata Teleservices,Telecom ,4.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,1996 (28 yrs old),201-500,201-500
+Hero FinCorp,NBFC ,4.2,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,1991 (33 yrs old),1k-5k,1k-5k
+ESAF Microfinance & Investments (P),Financial Services ,3.9,Job Security,Promotions / Appraisal,,,
+Coromandel International,Agro Chemicals ,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1961 (63 yrs old),5k-10k,5k-10k
+Adani Power,Power ,4.0,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,2006 (18 yrs old),1k-5k,1k-5k
+Varroc Group,Auto Components ,3.8,Promotions / Appraisal,Promotions / Appraisal,1988 (36 yrs old),,1k-5k
+Optum Global Solutions,IT Services & Consulting ,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,2002 (22 yrs old),50k-1 Lakh,10k-50k
+Laurus Labs,Pharma ,4.2,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal,2005 (19 yrs old),5k-10k,5k-10k
+Bank of Baroda,Banking ,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Company Culture",1908 (116 yrs old),50k-1 Lakh,50k-1 Lakh
+SAP,Software Product ,4.3,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Work Satisfaction, Company Culture",1972 (52 yrs old),1 Lakh+,10k-50k
+Cargill,Food Processing ,4.1,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,1865 (159 yrs old),1 Lakh+,1k-5k
+Future Generali India Life Insurance,Insurance ,3.7,Promotions / Appraisal,Promotions / Appraisal,,,
+Microsoft Corporation,Software Product ,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,1975 (49 yrs old),10k-50k,10k-50k
+ValueLabs,IT Services & Consulting ,3.8,Salary & Benefits,Promotions / Appraisal,1997 (27 yrs old),5k-10k,5k-10k
+Meesho,Internet ,3.7,Salary & Benefits,"Job Security, Promotions / Appraisal",2015 (9 yrs old),5k-10k,5k-10k
+Sterling & Wilson,Engineering & Construction ,4.1,"Work Life Balance, Company Culture, Skill Development / Learning","Job Security, Promotions / Appraisal",1927 (97 yrs old),1k-5k,501-1k
+Tata Motors Finance,NBFC ,4.1,"Company Culture, Skill Development / Learning, Job Security",Promotions / Appraisal,1957 (67 yrs old),1k-5k,1k-5k
+Adani Wilmar,FMCG ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1999 (25 yrs old),1k-5k,1k-5k
+Gabriel India,Auto Components ,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,1961 (63 yrs old),1k-5k,1k-5k
+Niva Bupa Health Insurance Company,Insurance ,3.7,"Promotions / Appraisal, Work Satisfaction","Promotions / Appraisal, Work Satisfaction",,,
+Renault Nissan Technology & Business Centre India,Automobile ,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",,,
+Sify Technologies,IT Services & Consulting ,3.9,"Skill Development / Learning, Job Security",Promotions / Appraisal,1995 (29 yrs old),1k-5k,1k-5k
+Citibank,Banking ,3.9,"Salary & Benefits, Job Security, Company Culture",Promotions / Appraisal,1812 (212 yrs old),,10k-50k
+JK Tyres,Auto Components ,3.8,"Promotions / Appraisal, Company Culture, Salary & Benefits","Promotions / Appraisal, Company Culture, Salary & Benefits",1951 (73 yrs old),10k-50k,1k-5k
+TCE,Engineering & Construction ,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",1962 (62 yrs old),,5k-10k
+AECOM,Engineering & Construction ,4.3,"Work Life Balance, Company Culture, Work Satisfaction","Promotions / Appraisal, Salary & Benefits",1990 (34 yrs old),50k-1 Lakh,1k-5k
+HCL Infosystems,IT Services & Consulting ,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1976 (48 yrs old),1 Lakh+,51-200
+Power Mech Projects,Engineering & Construction ,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",2007 (17 yrs old),10k-50k,1k-5k
+Apollo Pharmacy,Pharma ,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,1983 (41 yrs old),10k-50k,10k-50k
+Lucas-TVS,Auto Components ,4.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,1962 (62 yrs old),5k-10k,5k-10k
+Matrimony.com,Internet ,4.4,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,1997 (27 yrs old),1k-5k,1k-5k
+Allstate,Insurance ,3.9,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,2012 (12 yrs old),5k-10k,5k-10k
+Thomson Reuters,Software Product ,4.2,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,2008 (16 yrs old),10k-50k,5k-10k
+NeoSOFT,IT Services & Consulting ,4.0,"Skill Development / Learning, Work Life Balance, Work Satisfaction",Promotions / Appraisal,1996 (28 yrs old),1k-5k,1k-5k
+YASH Technologies,IT Services & Consulting ,3.8,"Work Life Balance, Company Culture",Promotions / Appraisal,1996 (28 yrs old),5k-10k,5k-10k
+Taurus BPO Services,BPO ,4.6,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,,,
+Crisil,Financial Services ,3.7,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",1987 (37 yrs old),1k-5k,1k-5k
+CitiusTech,IT Services & Consulting ,3.4,"Promotions / Appraisal, Job Security, Salary & Benefits","Promotions / Appraisal, Job Security, Salary & Benefits",2005 (19 yrs old),5k-10k,1k-5k
+Hindustan Aeronautics,Defence & Aerospace ,4.4,"Skill Development / Learning, Work Life Balance, Job Security","Promotions / Appraisal, Job Security, Salary & Benefits",,,
+Dr Lal PathLabs,Healthcare ,4.2,"Skill Development / Learning, Job Security, Company Culture","Promotions / Appraisal, Job Security, Salary & Benefits",1949 (75 yrs old),1k-5k,1k-5k
+Parle Products,Food Processing ,4.0,Salary & Benefits,"Promotions / Appraisal, Job Security, Salary & Benefits",1929 (95 yrs old),10k-50k,1k-5k
+SBI General Insurance,Insurance ,3.8,Job Security,Promotions / Appraisal,2009 (15 yrs old),10k-50k,5k-10k
+Novartis,Pharma ,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,1996 (28 yrs old),10k+,1k-5k
+L&T Energy Hydrocarbon,Engineering & Construction ,4.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance",,,
+Reliance General Insurance,Insurance ,3.8,Promotions / Appraisal,Promotions / Appraisal,2000 (24 yrs old),5k-10k,5k-10k
+Photon Interactive,IT Services & Consulting ,4.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance",Promotions / Appraisal,1999 (25 yrs old),1k-5k,1k-5k
+Xoriant,IT Services & Consulting ,3.8,"Work Life Balance, Company Culture",Promotions / Appraisal,1990 (34 yrs old),5k-10k,1k-5k
+Vedantu,EdTech ,3.4,"Job Security, Promotions / Appraisal, Work Satisfaction","Job Security, Promotions / Appraisal, Work Satisfaction",2011 (13 yrs old),1k-5k,1k-5k
+café Coffee day,Hospitality ,3.9,"Promotions / Appraisal, Salary & Benefits","Promotions / Appraisal, Salary & Benefits",,,
+Tata Advanced Systems,Defence & Aerospace ,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",,,
+Uflex,Packaging ,3.8,Job Security,"Promotions / Appraisal, Company Culture",1985 (39 yrs old),5k-10k,5k-10k
+IDBI Bank,Banking ,3.7,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",1964 (60 yrs old),10k-50k,10k-50k
+Kotak Securities,Financial Services ,3.7,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction","Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",1994 (30 yrs old),5k-10k,5k-10k
+SBI Securities,Financial Services ,3.8,Promotions / Appraisal,Promotions / Appraisal,,,
+Frankfinn Institute of Air Hostess Training,Education & Training ,4.0,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal,1993 (31 yrs old),1k-5k,1k-5k
+TVS Sundram Fasteners,Auto Components ,3.8,"Promotions / Appraisal, Salary & Benefits, Company Culture","Promotions / Appraisal, Salary & Benefits, Company Culture",,,
+Aditya Birla Capital,Financial Services ,4.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits, Company Culture",,,
+SGS,Other ,3.9,Promotions / Appraisal,Promotions / Appraisal,1878 (146 yrs old),50k-1 Lakh,1k-5k
+Haldiram Foods,FMCG ,3.9,Promotions / Appraisal,Promotions / Appraisal,1970 (54 yrs old),10k-50k,1k-5k
+Philips,Consumer Electronics & Appliances ,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,1930 (94 yrs old),50k-1 Lakh,5k-10k
+BA Continuum,NBFC ,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,,,
+AXA Business Services,Insurance ,3.8,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",1946 (78 yrs old),5k-10k,501-1k
+Safexpress,Logistics ,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1997 (27 yrs old),1k-5k,1k-5k
+Exl India,IT Services & Consulting ,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1957 (67 yrs old),10k-50k,11-50
+Aragen Life Sciences,Pharma ,4.1,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2000 (24 yrs old),1k-5k,1k-5k
+Indian Navy,Defence & Aerospace ,4.6,"Job Security, Skill Development / Learning, Salary & Benefits","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1950 (74 yrs old),50k-1 Lakh,50k-1 Lakh
+Narayana Health,Healthcare ,4.2,"Job Security, Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2000 (24 yrs old),10k-50k,10k-50k
+Microland,IT Services & Consulting ,3.5,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1989 (35 yrs old),1k-5k,1k-5k
+MetLife,Insurance ,4.3,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2008 (16 yrs old),10k-50k,1k-5k
+SS&C TECHNOLOGIES,IT Services & Consulting ,3.5,"Promotions / Appraisal, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Work Life Balance, Work Satisfaction",,,
+Spark Minda,Auto Components ,3.9,Promotions / Appraisal,Promotions / Appraisal,1958 (66 yrs old),1k-5k,1k-5k
+Biological E,Biotechnology ,4.2,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1953 (71 yrs old),1k-5k,1k-5k
